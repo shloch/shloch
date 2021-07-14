@@ -36,6 +36,6 @@ Checkout my portfolio : https://shloch.github.io/portfolio/
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="c" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" alt="c" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg"/>
   
  </p>
