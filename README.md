@@ -65,5 +65,5 @@ Checkout my portfolio : https://shloch.github.io/portfolio/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shloch&layout=compact)](https://github.com/shloch/github-readme-stats)
  
  <h3 align="left"> Profile View Counter </h3>
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+![Profile View Counter](https://komarev.com/ghpvc/?username=shloch)
 
