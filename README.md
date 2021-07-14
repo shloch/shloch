@@ -22,7 +22,7 @@ I enjoy team work and collaboration as well as being capable to work solo.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/shloch" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </p>
 
 Checkout my portfolio : https://shloch.github.io/portfolio/
@@ -34,28 +34,29 @@ Checkout my portfolio : https://shloch.github.io/portfolio/
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-   Front --> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="c" width="30" title="Bootstrap"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="c" width="30" title="css"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="c" width="30" title="HTML5"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="c" width="30" title="Javascript"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="c" width="30" title="React"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="c" width="30" title="Git"/>
- </p>
+   Front-end : 
+   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+   <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+</p>
 <p align="left">
-  Backend -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="c" width="30" title="MySQL"/> &nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="c" width="30" title="PHP"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" alt="c" width="30" title="CodeIgniter"/>  &nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="c" width="40" height="30"  title="Ruby"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="Rails" width="30" title="Ruby on Rails"/>&nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="c" width="30" title="Python"/>/ FastAPI
- </p>
+  Backend :
+   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" alt="c" width="30" title="CodeIgniter"/>
+   <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+   <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
+</p>
  <p align="left">
-   Other Tools -->
-   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" alt="c" width="30" title="Heroku"/> &nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="c" width="30" title="Git"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="c" width="30" title="Linux"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" alt="c" width="30" title="Vim"/>
-  
+   Other Tools:
+   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+   <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>  
+   <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
  </p>
