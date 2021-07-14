@@ -61,7 +61,3 @@ Checkout my portfolio : https://shloch.github.io/portfolio/
    <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
  </p>
  
- <h3 align="left">Most Used Languages </h3>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shloch)](https://github.com/shloch/github-readme-stats)
-
-
