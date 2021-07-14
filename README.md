@@ -34,19 +34,28 @@ Checkout my portfolio : https://shloch.github.io/portfolio/
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="c" width="40" title="Git"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="c" width="40" title="Git"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="c" width="40" title="Linux"/>
+   Front --> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="c" width="40" title="MySQL"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="c" width="40" title="MySQL"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="c" width="40" title="PHP"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" alt="c" width="40" title="CodeIgniter"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="c" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="c" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="c" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="c" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="c" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="Rails" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="c" width="40" title="Git"/>
+ </p>
+<p align="left">
+  Backend -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="c" width="40" title="MySQL"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="c" width="40" title="PHP"/>/
+    <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" alt="c" width="40" title="CodeIgniter"/>,  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="c" width="40" height="40"  title="Ruby"/>/
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="Rails" width="40" title="Ruby on Rails"/>, 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="c" width="40" title="Python"/>/ FastAPI
+ </p>
+ <p align="left">
+   Other Tools -->
+   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" alt="c" width="40" title="Heroku"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="c" width="40" title="Git"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="c" width="40" title="Linux"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" alt="c" width="40" title="Vim"/>
   
  </p>
