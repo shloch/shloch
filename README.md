@@ -22,7 +22,7 @@ I enjoy team work and collaboration as well as being capable to work solo.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shloch" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/shloch" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/shloch-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </p>
 
 Checkout my portfolio : https://shloch.github.io/portfolio/
@@ -60,3 +60,10 @@ Checkout my portfolio : https://shloch.github.io/portfolio/
    <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>  
    <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
  </p>
+ 
+ <h3 align="left">Most Used Languages </h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shloch&layout=compact)](https://github.com/shloch/github-readme-stats)
+ 
+ <h3 align="left"> Profile View Counter </h3>
+![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+
