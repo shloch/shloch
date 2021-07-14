@@ -62,8 +62,6 @@ Checkout my portfolio : https://shloch.github.io/portfolio/
  </p>
  
  <h3 align="left">Most Used Languages </h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shloch&layout=compact)](https://github.com/shloch/github-readme-stats)
- 
- <h3 align="left"> Profile View Counter </h3>
-![Profile View Counter](https://komarev.com/ghpvc/?username=shloch)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shloch)](https://github.com/shloch/github-readme-stats)
+
 
