@@ -62,6 +62,6 @@ Checkout my portfolio : https://shloch.github.io/portfolio/
  </p>
  
  <h3 align="left">Most Used Languages </h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shloch)](https://github.com/shloch/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shloch)](https://github.com/shloch/github-readme-stats)
 
 
