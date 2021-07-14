@@ -14,14 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![MasterHead](https://github.com/shloch/shloch/blob/main/header.png)](https://github.com/shloch)
 I am your software developer with a strong Infrastructure background (Networking + Linux system administration).
 I like scripting languages Ruby/Python/PHP/Bash
 I am passionate about coding, biking, hip-hop dancing, swimming.
 I enjoy team work and collaboration as well as being capable to work solo.
 
-Checkout my portfolio : https://shloch.github.io/porfolio/
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+</p>
+
+Checkout my portfolio : https://shloch.github.io/portfolio/
 
 - 🔭 I’m currently working on improving on my React skills
 - 🌱 I’m currently preparing my AWS certification
 - 👯 I’m has a passion for security
+- 😄 i run a coding-only Youtube channel : https://www.youtube.com/channel/UCyt472x_xlgTqdi4ntuwJVQ
