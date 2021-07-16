@@ -37,6 +37,7 @@ Checkout my portfolio : https://shloch.github.io/portfolio/
    Front-end : 
    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+   ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -60,4 +61,17 @@ Checkout my portfolio : https://shloch.github.io/portfolio/
    <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>  
    <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
  </p>
+ 
+ ## My Recent Blog posts ✍️
+
+<!-- BLOG-POST-LIST:START -->
+- [Testing a Javascript function that writes to the DOM 👨‍💻](https://medium.com/@shloch2007/testing-a-javascript-function-that-writes-to-the-dom-cfcba46a7c12)
+- [How to blink a text with Ruby 🔎](https://medium.com/@shloch2007/how-to-blink-a-text-with-ruby-c46c6eecc42c)
+- [Learn CSS transition by imitating smashing magazine 🚀](https://medium.com/@shloch2007/learn-css-transition-by-imitating-smashing-magazine-b9fb25de722c)
+- [My #JavascriptMas 2020 🚀](https://medium.com/@shloch2007/my-javascriptmas-2020-227113a9fdde)
+<!-- BLOG-POST-LIST:END -->
+
+## My Github Status 🦸
+
+![](https://github-readme-stats.vercel.app/api?username=shloch&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
  
