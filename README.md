@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **shloch/shloch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +26,7 @@ I enjoy team work and collaboration as well as being capable to work solo.
 
 Checkout my portfolio : https://shloch.github.io/portfolio/
 
+- 📫 How to reach me: [shloch2007@yahoo.fr](mailto:shloch2007@yahoo.fr)
 - 🔭 I’m currently working on improving on my React skills
 - 🌱 I’m currently preparing my AWS certification
 - 👯 I’m has a passion for security
@@ -37,7 +37,7 @@ Checkout my portfolio : https://shloch.github.io/portfolio/
    Front-end : 
    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-   ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+   <img alt="Bootstrap" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
