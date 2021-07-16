@@ -73,5 +73,5 @@ Checkout my portfolio : https://shloch.github.io/portfolio/
 
  ## Most used Languages ✍️
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shloch&layout=compact&langs_count=8)](https://github.com/shloch/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shloch&layout=compact&langs_count=10)](https://github.com/shloch/github-readme-stats)
 
