@@ -70,8 +70,3 @@ Checkout my portfolio : https://shloch.github.io/portfolio/
 - [Learn CSS transition by imitating smashing magazine 🚀](https://medium.com/@shloch2007/learn-css-transition-by-imitating-smashing-magazine-b9fb25de722c)
 - [My #JavascriptMas 2020 🚀](https://medium.com/@shloch2007/my-javascriptmas-2020-227113a9fdde)
 <!-- BLOG-POST-LIST:END -->
-
-## My Github Status 🦸
-
-![](https://github-readme-stats.vercel.app/api?username=shloch&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
- 
