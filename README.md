@@ -29,7 +29,7 @@ Checkout my portfolio : https://shloch.github.io/portfolio/
 - 📫 How to reach me: [shloch2007@yahoo.fr](mailto:shloch2007@yahoo.fr)
 - 🔭 I’m currently working on improving on my React skills
 - 🌱 I’m currently preparing my AWS certification
-- 👯 I’m has a passion for security
+- 👯 I’m have a passion for security
 - 😄 i run a coding-only Youtube channel : https://www.youtube.com/channel/UCyt472x_xlgTqdi4ntuwJVQ
 
 <h3 align="left">Languages and Tools:</h3>
