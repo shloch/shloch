@@ -62,6 +62,9 @@ Checkout my portfolio : https://shloch.github.io/portfolio/
    <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
  </p>
  
+ ### Github Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shloch&theme=radical)](https://git.io/streak-stats)
+ 
  ## My Recent Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
